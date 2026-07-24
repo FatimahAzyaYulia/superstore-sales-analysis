@@ -19,11 +19,11 @@ The dataset used in this project is included in this repository as a compressed 
 
 ### Sales Overview
 
-![Sales Overview](DAshboard/dashboard_page1.png)
+![Dashboard Page 1](DAshboard/dashboard_page1.png)
 
 ### Sales Insights
 
-![Sales Insights](DAshboard/dashboard_page2.png)
+![Dashboard Page 2](DAshboard/dashboard_page2.png)
 
 ## Business Questions
 
@@ -66,6 +66,10 @@ Superstore-Sales-Dashboard/
 
 ## Interactive Dashboard
 
-[Paste your Looker Studio dashboard link here.](https://datastudio.google.com/reporting/f6e1d5a5-cb61-4199-81e7-1341a7ba4abc)
+[Looker Studio dashboard link here.](https://datastudio.google.com/reporting/f6e1d5a5-cb61-4199-81e7-1341a7ba4abc)
+
+# 👤 Author
+
+**Fatimah Azya Yuliardin**
 
 

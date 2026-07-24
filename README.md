@@ -66,8 +66,6 @@ Superstore-Sales-Dashboard/
 
 ## Interactive Dashboard
 
-Paste your Looker Studio dashboard link here.
+[Paste your Looker Studio dashboard link here.](https://datastudio.google.com/reporting/f6e1d5a5-cb61-4199-81e7-1341a7ba4abc)
 
-## Author
 
-**Fatimah Azya Yuliardin**

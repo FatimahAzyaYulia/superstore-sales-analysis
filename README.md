@@ -11,7 +11,19 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel and Lo
 
 ## Dataset
 
+The dataset used in this project is included in this repository as a compressed ZIP file.
 
+**Dataset:** `Superstore Data.zip`
+
+## Dashboard
+
+### Sales Overview
+
+![Sales Overview](DAshboard/dashboard_page1.png)
+
+### Sales Insights
+
+![Sales Insights](DAshboard/dashboard_page2.png)
 
 ## Business Questions
 
@@ -23,21 +35,11 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel and Lo
 6. Which product sub-category generates the highest sales?
 7. Which ship mode is used most frequently?
 
-## Dashboard
-
-### Page 1 – Sales Overview
-
-![Sales Overview](Dashboard/dashboard_page1.png)
-
-### Page 2 – Sales Insights
-
-![Sales Insights](Dashboard/dashboard_page2.png)
-
 ## Key Insights
 
 - The West region generated the highest sales.
 - Technology was the best-performing product category.
-- Consumer was the largest customer segment by sales.
+- Consumer contributed the highest sales.
 - Sales fluctuated over time with several seasonal peaks.
 - Standard Class was the most frequently used shipping mode.
 - A small number of product sub-categories contributed significantly to total sales.
@@ -50,21 +52,22 @@ This project analyzes the Sample Superstore dataset using Microsoft Excel and Lo
 - Monitor monthly sales trends to identify seasonal demand.
 - Evaluate shipping performance to improve customer satisfaction.
 
-## Interactive Dashboard
+## Repository Structure
 
-https://datastudio.google.com/reporting/f6e1d5a5-cb61-4199-81e7-1341a7ba4abc
-
-```
-
----
-
-
-```
+```text
 Superstore-Sales-Dashboard/
 │
 ├── README.md
-├── Dashboard/
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
+├── Superstore Data.zip
+└── Dashboard/
+    ├── dashboard_page1.png
+    └── dashboard_page2.png
 ```
 
+## Interactive Dashboard
+
+Paste your Looker Studio dashboard link here.
+
+## Author
+
+**Fatimah Azya Yuliardin**

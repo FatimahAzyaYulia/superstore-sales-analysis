@@ -19,11 +19,11 @@ The dataset used in this project is included in this repository as a compressed 
 
 ### Sales Overview
 
-![Dashboard Page 1](DAshboard/dashboard_page1.png)
+![Dashboard Page 1](Dashboard/dashboard_page1.png)
 
 ### Sales Insights
 
-![Dashboard Page 2](DAshboard/dashboard_page2.png)
+![Dashboard Page 2](Dashboard/dashboard_page2.png)
 
 ## Business Questions
 
